@@ -15,7 +15,7 @@ Each tool in this toolkit has been carefully selected and tested to ensure relia
 
 ## Installation
 
-Most tools in this toolkit can be installed via Conda or Docker, providing a straightforward setup process. Here are the general steps to get started:
+Most tools in this toolkit can be installed via CRAN, providing a straightforward setup process. Here are the general steps to get started:
 
 ```bash
 # Clone the repository
